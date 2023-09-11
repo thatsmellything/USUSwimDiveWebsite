@@ -1,0 +1,36 @@
+Designing a website template for a swimming and diving club at Utah State University involves creating a clean, visually appealing, and user-friendly layout that showcases the club's information and activities effectively. Here's a basic website template design:
+
+**Header:**
+- Include the club's logo and a high-resolution image of the Utah State University campus or a swimming/diving-related image as the header background.
+- Place the club's name prominently at the top.
+- Include navigation links: Home, About Us, Programs, Events, Join Us, Contact Us.
+  
+**Navigation Bar:**
+- Create a horizontal navigation bar beneath the header with dropdown menus for Programs and Events.
+- Use clear and readable font for navigation links.
+  
+**Homepage:**
+- Hero Section: Display an attention-grabbing image of the club in action, with a brief welcome message overlay.
+- About Us: Provide a short introduction to the club, its mission, and values.
+- Upcoming Events: Highlight the next few club events with dates and descriptions.
+- Join Us CTA: Encourage visitors to join the club with a prominent "Join Now" button.
+  
+**About Us:**
+- Club History: Include a section detailing the club's history, achievements, and notable members.
+- Meet the Team: Showcase profiles of key club members, coaches, and staff.
+  
+**Programs:**
+- List the club's swimming and diving programs.
+- Include details about each program, such as practice schedules, training facilities, and coaching staff.
+  
+**Events:**
+- Calendar: Display a calendar of upcoming club events, meets, and competitions.
+- Event Details: Provide event descriptions, dates, times, and locations.
+- Registration: Allow users to register for events directly through the website.
+  
+**Join Us:**
+- Membership Benefits: Highlight the benefits of joining the club, such as skill development, networking, and fitness.
+- Membership Application: Provide an online application form with fields for personal information.
+  
+**Contact Us:**
+- Contact Information: Display club contact details, including an email address
