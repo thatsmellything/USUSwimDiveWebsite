@@ -137,6 +137,21 @@ footer {
     padding: 10px 0;
 }
 
+/* id heroSectionText */
+#heroSectionText{
+    font-family: 'myFont';
+    font-size: 50px;
+    color: #ffffff;
+    text-align: center;
+}
+
+@font-face{
+	font-family: 'myFont';
+	src:    url("AweSomE_JouRneY.otf") format("opentype"),
+            url("AweSomE_JouRneY.ttf") format("truetype"),
+            url("AweSomE_JouRneY.woff") format("woff");
+}
+
 /* Media Queries for Responsive Design (adjust as needed) */
 @media screen and (max-width: 768px) {
     nav ul {
