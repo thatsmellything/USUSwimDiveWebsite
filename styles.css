@@ -144,6 +144,11 @@ footer {
     color: #ffffff;
     text-align: center;
 }
+#records{
+    width: 100%;
+    margin: auto;
+    height: 100%;
+}
 
 @font-face{
 	font-family: 'myFont';
